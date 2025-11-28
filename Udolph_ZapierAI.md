@@ -52,6 +52,8 @@ For marketing, SEO compatibility and analysis are essential for getting your pro
 - **Output:**  
   A complete and formatted SEO article ready for editing with keywords stated at the bottom.  
 
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/Sales%20pt%201.png)
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/Sale%20pt%202.png)
 
 - **Time Saved:**  
   **60–90 minutes → ~1-2 minutes**  
