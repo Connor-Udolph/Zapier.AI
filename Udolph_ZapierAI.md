@@ -52,8 +52,7 @@ For marketing, SEO compatibility and analysis are essential for getting your pro
 - **Output:**  
   A complete and formatted SEO article ready for editing with keywords stated at the bottom.  
 
-![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/Sales%20pt%201.png)
-![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/Sale%20pt%202.png)
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/SEO%20Fuse%20artcle%20doc.png)
 
 - **Time Saved:**  
   **60–90 minutes → ~1-2 minutes**  
@@ -73,6 +72,8 @@ For my entrepreneurship project EZDrive I wanted to test early user outreach to 
 - **Output:**  
   Personalized outreach, early user research conversations, and automatic cold emailing.  
 
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/Sales%20pt%201.png)
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/Sale%20pt%202.png)
 
 - **Time Saved:**  
   **2–3 hours → ~2 minutes**  
@@ -97,14 +98,13 @@ For Fuse Advancement airport advertising strategy, I needed to collect airport a
   5. Monitors for email responses and forwards them into the workflow.  
   6. Prompts responses to extract contract details (concessionaire name, term, financial terms, revenue) and writes the structured data back into Google Sheets.
 
-
 - **Output:**  
   A living Google Sheets database of airports with:  
   - FOIA contact info  
   - request status (sent / pending / received)  
   - extracted contract details (concessionaire, dates, rev share, 2023 revenue).  
 
-
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/Real%20airport%20tracker%20sheet.png)
 
 - **Time Saved:**  
 Manually, each airport could easily take 60–90 minutes (finding the right contact, drafting the request, tracking the response, and logging details). With this workflow, the initial outreach and tracking per airport drops to ~5 minutes plus some time to review and clean the data.
@@ -126,6 +126,8 @@ However, response tracking is imperfect contract PDFs and legal language are mes
 - **Why It Failed:**  
   Zapier.ai rearranged columns, left gaps in data, mixed fields, and added duplicates. AI generated structured data remained unstable without strict rules.  
 
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/SBA%20lead%20gen%20spreadsheet.png)
+
 
 - **Lesson Learned:**  
   AI generates good content but poor predictable data structure. Validation layers or templates are essential. Human verification and manual editing still need but time is still saved.
@@ -136,6 +138,7 @@ However, response tracking is imperfect contract PDFs and legal language are mes
 - **Why It Failed:**  
   The AI struggled finding the data throughout a long and messy records request pdf  
 
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/Airport%20tracker%20error.png)
 
 - **Lesson Learned:**  
   Some features are meant to be manually reviewed anyways. AI can hallucinate those key data points and learning to read contracts for myself really helped me understand more about the airport advertising industry. 
@@ -179,22 +182,24 @@ Yes, I would use Zapier.ai professionally especially for marketing automation, e
 
 # Evidence Gallery  
 Automated Lead Generation for SBA Airport Advertising 
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/SBA%20lead%20gen%20prompt.png)
+
+
 Automated Lead Generation for SBA Airport Advertising prompt and preview workflow
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/screenshots/SBA%20LEad%20gen%20evidnece%20preview.png)
 
 
-SEO Article Generator 
-
+SEO Article Generator Prtompt and preview
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/seo.png)
 
 
 AI Sales Development Assistant Prompt and workflow (email draft)
-
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/AI%20sales%20dev%20agent.png)
 
 AI Airport Tracker Agent and Prompt
+![Screenshot](https://github.com/Connor-Udolph/Zapier.AI/blob/main/Airport%20tracker%20prompt.png)
 
 
-
-![Screenshot](./screenshot1.png)
-https://drive.google.com/file/d/11XoEykkUcKZfNpvdQaCgghs287L5Pqek/view?usp=sharing 
 
 
 # References  
