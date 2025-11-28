@@ -31,7 +31,7 @@ As an intern at Fuse Advancement airport advertising, I was assigned the busy wo
   5. Automatically adds the output to a Google Sheets CRM  
 - **Output:**  
 10–20 potential leads per run per week with Date, Title, Publication, Reporter, Sponsored status, Link, Company Name, Industry Type, Contact Name (if available), Job Title (Marketing or Ad-related roles preferred), Email Address, Phone Number (if available), Website, and Why They’re a Good Fit (1-2 sentence rationale) all into the google sheet row.
-
+https://github.com/Connor-Udolph/Zapier.AI/blob/main/SBA%20lead%20gen%20spreadsheet.png
 
 - **Time Saved:**  
   **2–3 hours → ~10 minutes**  
