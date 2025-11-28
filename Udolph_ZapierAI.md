@@ -9,7 +9,7 @@
 - **Link:** https://zapier.com/   
 
 ## My Testing Methodology  
-I tested Zapier.ai for **15-17 hours** over the course of the quarter with the purpose of focusing on real tasks I perform as a marketer, potential salesman, SEO specialist,  and student entrepreneur. I built over 12+ Zapier AI Agents and iterated 4 complete workflows use cases such as:
+I tested Zapier.ai for 15-17 hours over the course of the quarter with the purpose of focusing on real tasks I perform as a marketer, potential salesman, SEO specialist,  and student entrepreneur. I built over 12+ Zapier AI Agents and iterated 4 complete workflows use cases such as:
 1. Lead generation for SBA airport advertising (Fuse Advancement)  
 2. SEO content generation for any website (AppFolio, Fuse Advancement)  
 3. Sales outreach automation for my MTM entrepreneurship venture EZDrive  
@@ -60,7 +60,7 @@ For marketing, SEO compatibility and analysis are essential for getting your pro
 
 ### Use Case 3: EZDrive Sales Assistant - Lead Research + Automatic Cold Emailing  
 - **Context:**  
-For my entrepreneurship project **EZDrive** I wanted to test early user outreach to find my potential market such as parents, car owners, local shops, and driving schools. I then wanted to see with these leads I could then have AI write an automatic cold email to them personalized to the brand and lead.
+For my entrepreneurship project EZDrive I wanted to test early user outreach to find my potential market such as parents, car owners, local shops, and driving schools. I then wanted to see with these leads I could then have AI write an automatic cold email to them personalized to the brand and lead.
 - **Process:**  
   My workflow:  
   1. Finds potential leads though searching the internet
@@ -104,7 +104,7 @@ For Fuse Advancement airport advertising strategy, I needed to collect airport a
 
 
 - **Time Saved:**  
-Manually, each airport could easily take **60–90 minutes** (finding the right contact, drafting the request, tracking the response, and logging details). With this workflow, the initial outreach and tracking per airport drops to **~5 minutes** plus some time to review and clean the data.
+Manually, each airport could easily take 60–90 minutes (finding the right contact, drafting the request, tracking the response, and logging details). With this workflow, the initial outreach and tracking per airport drops to ~5 minutes plus some time to review and clean the data.
 
 - **Quality Assessment:**  
   The automation is excellent at:  
@@ -171,13 +171,12 @@ Automated cold emails reduce 1 on 1 connection and communication that can weaken
 - Risk of sending incorrect outreach if unchecked  
 
 **My Verdict:**  
-**Yes, I would use Zapier.ai professionally** especially for marketing automation, early outreach, and idea testing. But it works best as a **helper** and not a replacement. Human oversight is crucial and it is important to remember AI hallucinates, sounds confident, and makes mistakes. 
+Yes, I would use Zapier.ai professionally especially for marketing automation, early outreach, and idea testing. But it works best as a helper or assistant and not a replacement. Human oversight is crucial and it is important to remember AI hallucinates, sounds confident, and makes mistakes. 
 
 
 # Evidence Gallery  
 Automated Lead Generation for SBA Airport Advertising 
 Automated Lead Generation for SBA Airport Advertising prompt and preview workflow
-
 
 
 SEO Article Generator 
@@ -197,9 +196,11 @@ https://drive.google.com/file/d/11XoEykkUcKZfNpvdQaCgghs287L5Pqek/view?usp=shari
 
 # References  
 - Zapier.ai Documentation: AI quick start guide in Zapier
-- Zapier Learn 
+https://help.zapier.com/hc/en-us/articles/18590756459277-AI-quick-start-guide-in-Zapier 
+- Zapier Learn
+https://learn.zapier.com/
 - Zapier Tutorial for Beginners youtube: How to Use AI Agents to Automate Workflows:
 https://www.youtube.com/watch?v=avQMU1yJkyY  
-- Zapier App Integration Tool Help
+
 
 
